@@ -46,7 +46,8 @@ A RESTful API for managing a bookstore's inventory with user authentication, bui
 
 1. Clone the repository
 
-git clone https://github.com/swapnil0651/Assignment-api-spring.git
+git clone https://github.com/PrathamSharmaLemn/API-spring-bookstore
+
 
 cd Assignment-api-spring
 
